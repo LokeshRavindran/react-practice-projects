@@ -1,0 +1,21 @@
+.form {
+  background-color: white;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  padding: 2rem;
+}
+.form-elements {
+  margin: 1rem 0rem;
+}
+
+.form-elements > label {
+  display: block;
+  font-weight: bolder;
+  margin: 0.5rem 0rem;
+}
+.form-elements > input {
+  display: block;
+  width: 100%;
+  font-size: 1.2rem;
+  padding: 0.3rem;
+}
